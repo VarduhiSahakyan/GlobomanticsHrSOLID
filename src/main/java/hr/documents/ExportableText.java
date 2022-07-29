@@ -1,4 +1,5 @@
 package hr.documents;
 
-public class ExportableText {
+public interface ExportableText {
+    String toTxt();
 }

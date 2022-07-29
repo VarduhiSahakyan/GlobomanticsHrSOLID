@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4068d45-7151-4018-96ca-48defccb02b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/documents/ExportableJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/documents/ExportablePdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/documents/ExportableText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APM" beforeDir="false" afterPath="$PROJECT_DIR$/../APM" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../airoportManyToMany" beforeDir="false" afterPath="$PROJECT_DIR$/../airoportManyToMany" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -373,7 +369,7 @@
       <workItem from="1559824144667" duration="2330000" />
       <workItem from="1559831810791" duration="985000" />
       <workItem from="1560003868221" duration="1113000" />
-      <workItem from="1659079760741" duration="1788000" />
+      <workItem from="1659079760741" duration="2284000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1659081059349</created>
@@ -386,10 +382,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7136000" />
+    <option name="totallyTimeSpent" value="7632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -428,7 +425,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="dividing a large interface into small functionals" />
+    <option name="LAST_COMMIT_MESSAGE" value="dividing a large interface into small functionals" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/main/SaveEmployeesMain.java">
