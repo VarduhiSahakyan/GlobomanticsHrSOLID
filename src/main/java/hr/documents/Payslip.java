@@ -3,10 +3,8 @@ package hr.documents;
 import hr.personnel.Employee;
 
 import java.time.Month;
-import java.util.Arrays;
-import java.util.List;
 
-public class  Payslip implements ExportableText{
+public class Payslip implements ExportableText {
     private String employeeName;
     private int monthlyIncome;
     private Month month;
@@ -41,5 +39,6 @@ public class  Payslip implements ExportableText{
 
         return sb.toString();
     }
-    
+
+
 }
