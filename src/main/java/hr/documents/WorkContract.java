@@ -1,9 +1,9 @@
 package hr.documents;
 
 public class WorkContract implements
-ExportableText,
-ExportableJson,
-ExportablePdf {
+        ExportableText,
+        ExportableJson,
+        ExportablePdf {
 
     private String content;
 
