@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4068d45-7151-4018-96ca-48defccb02b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/main/PayEmployeesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/notifications/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/payment/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/persistence/EmployeeFileRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../APM" beforeDir="false" afterPath="$PROJECT_DIR$/../APM" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/documents/Payslip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/documents/Payslip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/documents/WorkContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/documents/WorkContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/main/ApproveSLAMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/main/ApproveSLAMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/main/CalculateEmployeeTaxesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/main/CalculateEmployeeTaxesMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/main/ExportPayslipMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/main/ExportPayslipMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/main/NatHolidayEmployeeTimeOffMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/main/NatHolidayEmployeeTimeOffMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/main/SaveEmployeesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/main/SaveEmployeesMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/persistence/EmployeeRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../airoportManyToMany" beforeDir="false" afterPath="$PROJECT_DIR$/../airoportManyToMany" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,6 +27,25 @@
               <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/subcontractor_business_requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/taxes_business_requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/taxes_business_requirements_v2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -70,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hr/notifications/EmailSender.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
@@ -265,7 +270,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559832727294" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -278,6 +283,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GlobomanticsHR\src\main\java" />
+      <recent name="D:\GlobomanticsHR\src\main\java\hr" />
       <recent name="C:\Projects\pluralsight-solid-principles-java\isp\before\GlobomanticsHR\src\main\resources" />
     </key>
   </component>
@@ -369,7 +376,7 @@
       <workItem from="1559824144667" duration="2330000" />
       <workItem from="1559831810791" duration="985000" />
       <workItem from="1560003868221" duration="1113000" />
-      <workItem from="1659079760741" duration="3844000" />
+      <workItem from="1659079760741" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1659081059349</created>
@@ -385,14 +392,22 @@
       <option name="project" value="LOCAL" />
       <updated>1659082690110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dependency Inversion Principle">
+      <created>1659085877095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659085877095</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9192000" />
+    <option name="totallyTimeSpent" value="9941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -413,7 +428,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.35106382" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.35106382" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32922536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -435,16 +450,10 @@
     <MESSAGE value="implements one functional interface" />
     <MESSAGE value="implements all functional interfaces" />
     <MESSAGE value="Interface Segregation Principle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface Segregation Principle" />
+    <MESSAGE value="Dependency Inversion Principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Inversion Principle" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/subcontractor_business_requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/personnel/Subcontractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -542,13 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/payslip_business_requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/main/ApproveSLAMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
@@ -587,6 +589,26 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/payslip_business_requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/subcontractor_business_requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/taxes_business_requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/taxes_business_requirements_v2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
